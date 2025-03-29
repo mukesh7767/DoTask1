@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Content added to file1 in master
+=======
+Modified file1 in first branch
+>>>>>>> first
