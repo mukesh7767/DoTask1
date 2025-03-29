@@ -3,3 +3,4 @@ Content added to file3 in master
 =======
 Modified file3 in second branch
 >>>>>>> first
+Content added to file3 in master
